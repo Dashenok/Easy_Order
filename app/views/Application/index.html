@@ -1,0 +1,7 @@
+#{extends 'main.html' /}
+#{set title:'play' /}
+
+<form action="@{Application.sayHello()}" method="GET">
+    <input type="text" name="userId" />
+    <input type="submit" value="Say hello!" />
+</form>
