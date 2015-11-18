@@ -208,6 +208,7 @@
   </component>
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
   </component>
   <component name="dataSourceStorageLocal">
     <data-source name="Oracle - EasyOrder" uuid="30493ef4-4a2d-417f-a5e8-964e032a0e1f">
